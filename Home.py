@@ -7,7 +7,7 @@ st.set_page_config(
 
 # st.write("# Welcome to Streamlit! 👋")
 
-st.title("SmartEstateHub")
+st.title("SmartEstateHub-Gurgaon")
 
 # Display the image
 st.image("project1_thumbnail.jpg", caption="Ishwar Gupta", use_column_width=True)
