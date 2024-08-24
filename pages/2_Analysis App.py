@@ -6,9 +6,10 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 
-st.set_page_config(page_title="Plotting Visulaization")
+st.set_page_config(page_title="Plotting Visualization")
+
 
 st.title('Analytics')
 
