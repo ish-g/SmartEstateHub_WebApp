@@ -2,6 +2,8 @@
 
 SmartEstateHub is a comprehensive Machine Learning (ML) and ML Operations (MLOps) project designed to assist users in analyzing, predicting, and recommending real estate properties. The project is deployed on AWS and provides several interactive tabs to explore different functionalities.
 
+## ScreenShot()
+
 ## Project Overview
 
 SmartEstateHub is divided into the following tabs:
